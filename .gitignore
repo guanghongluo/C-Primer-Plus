@@ -1,0 +1,5 @@
+# 忽略所有 .log 文件
+*.exe
+# 忽略 logs 文件夹
+.vscode/
+
