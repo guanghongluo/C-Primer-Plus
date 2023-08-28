@@ -1,0 +1,5 @@
+# 忽略所有 .exe 文件
+*.exe
+# 忽略 ./vscode 文件夹
+.vscode/
+
